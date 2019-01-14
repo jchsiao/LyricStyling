@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Work+Sans|Lobster');
+
+body {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  font-size: 14px;
+  color: #ffffff;
+  background: linear-gradient(#312B4F, #AAB9CE);
+  font-family: 'Work Sans', sans-serif;
+  line-height: 20px;
+}
+
+/* Only use h1 for top header; specifically edited for it. */
+h1 {
+  font-family: 'Lobster';
+  font-size: 5em;
+  text-align: center;
+  margin-right: 9vw;
+  color: #F9D1E2;
+}
+
+/* Only use h2 for artist name; also specifically edited*/
+h2, h3 {
+  font-size:13px;
+  margin-left:24vw;
+  margin-top:-1vh;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+
+a {
+  color: #F9D1E2;
+  text-decoration: none;
+}
+
+ a:hover {
+   color: #ffffff;
+   text-decoration: none;
+ }
+
+ .singleoh {
+   font-size: 30px;
+   font-family: 'Lobster';
+   line-height: normal;
+   opacity: 0.6;
+ }
+
+ .firstoh {
+   font-size: 30px;
+   font-family: 'Lobster';
+   line-height: normal;
+   opacity: 0.6;
+   margin-left: 30vw;
+ }
+
+  .secondoh {
+    font-size: 30px;
+    font-family: 'Lobster';
+    line-height: normal;
+    opacity: 0.6;
+    margin-top: 5vh;
+    margin-left: 41vw;
+    margin-right: -15vw;
+  }
+
+  .lastoh {
+    font-size: 30px;
+    font-family: 'Lobster';
+    line-height: normal;
+    opacity: 0.6;
+    margin-top: 5vh;
+    margin-left: 50vw;
+    margin-right: -15vw;
+  }
+
+ .box {
+   border: 2px solid #eeeeee;
+   opacity: 0.7;
+   padding: 10px;
+   margin: 10px 20px 10px 20px;
+ }
+
+ .intro {
+   margin-right: 40vw;
+   margin-left: -5vw;
+ }
+
+ .introtwo {
+   margin-left: 4vw;
+ }
+
+ .introthree {
+   margin-left: 6vw;
+ }
+
+.drugs {
+  font-size: 20px;
+  background: #27223E;
+  color:#F2BFD5;
+  font-family: 'Lobster';
+}
+
+.love {
+  font-size: 20px;
+  background: #F2BFD5;
+  color:#27223E;
+  font-family: 'Lobster';
+}
+
+ .prechorus {
+
+   font-size: 16px;
+   text-align: center;
+ }
+
+ .headclouds {
+   font-family: 'Lobster';
+   font-size: 40px;
+   color: #F9D1E2;
+   margin-left:10vw;
+ }
+
+ .headcloudstwo {
+   font-family: 'Lobster';
+   font-size: 40px;
+   opacity: 0.8;
+   margin-left:15vw;
+ }
+
+ .afterchorus {
+   margin-left:17vw;
+ }
+
+ .verse2 {
+   margin-left: 23vw;
+ }
